@@ -14,3 +14,9 @@ To run this:
 This is a diagram of what's occurring:
 
 ![example](https://github.com/jerryliangxia/capstone-project/assets/60997074/5abf039d-26e9-49ca-877a-5d8a8dc22beb)
+
+---
+
+Tutorials used for this project:
+
+[Teachable Machine + Unity integration](https://www.youtube.com/watch?app=desktop&v=NxIpr2yn21M)
